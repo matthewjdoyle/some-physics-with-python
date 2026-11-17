@@ -7,13 +7,7 @@ This repository contains a set of interactive physics simulations designed for e
 
 ## Installation
 
-### Option 1: Executable Files (Windows)
-
-1. Navigate to the `Application` folder in this repository
-2. Download the `.exe` file for the simulation you want to use
-3. Run the executable on your Windows computer
-
-### Option 2: Python Scripts
+### Option 1: Python Scripts
 
 To run the simulations from source:
 
@@ -36,6 +30,12 @@ To run the simulations from source:
    ```
    python scripts/ideal_gas_2d.py
    ```
+
+### Option 2: Executable Files (Windows)
+
+1. Navigate to the `Application` folder in this repository
+2. Download the `.exe` file for the simulation you want to use
+3. Run the executable on your Windows computer
 
 ## Simulations
 

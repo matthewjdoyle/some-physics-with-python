@@ -1,8 +1,5 @@
-# physics-visualisations
 
 ![Physics Visualisations Banner](Banner_t.gif)
-
-Created by Matthew J. Doyle.
 
 ## Overview
 
@@ -100,13 +97,11 @@ Each simulation includes interactive controls:
 - SciPy
 - scikit-image (for x-ray simulation)
 
-## Contact
 
-For questions, suggestions, or collaborations, please open an issue on this repository, or email enquire.matthewjdoyle@gmail.com
 
 ---
 
-_Note: These simulations are designed for educational purposes and may use simplified models of physical phenomena._
+_Note: These simulations are designed for educational purposes and may use simplified models of physics._
 
 ---
 
